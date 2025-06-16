@@ -1,6 +1,6 @@
 # Pipeline for multi-feature analysis of aortic endothelial nuclear shape 
-## Salvador, J., … Melzer, M.E.,... Goyal, Y., … Iruela-Arispe, M.L., 2024
-Created by MEM on 20231021, last update by MEM 20240118
+## Salvador, J., … Melzer, M.E.,... Goyal, Y., … Iruela-Arispe, M.L., 2025
+Created by MEM on 20231021, last update by MEM 20250615
 
 ![pipelineSteps](https://github.com/madelinemelzer/nucleiDysmorphia/assets/121903053/141ec955-0366-437e-a881-fec88755fe2f)
 
